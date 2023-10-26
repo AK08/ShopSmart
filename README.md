@@ -21,11 +21,11 @@ Follow these steps to set up and run the SmartCheckout application locally:
 2. npm i
 3. npm start
 
-### Setting up SQL
 
-1. Run the sql queries in the workbench
 
 # ShopSmart Database Setup
+
+Below is SQL queries and table structures to set up the ShopSmart database. Below are the SQL commands to create the necessary tables and insert sample data. You can copy and paste these SQL commands into your database system to set up the database.
 
 ```
 -- Table structure for table `admin`
