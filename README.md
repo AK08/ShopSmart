@@ -1,6 +1,6 @@
-# SmartCheckout
+# ShopSmart
 
-SmartCheckout is a web-based e-commerce platform that allows users to browse and purchase products online. This repository contains the codebase for both the server and client applications, as well as the database setup.
+ShopSmart is a web-based e-commerce platform that allows users to browse and purchase products online. This repository contains the codebase for both the server and client applications, as well as the database setup.
 
 ## Getting Started
 
