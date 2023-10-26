@@ -25,9 +25,9 @@ Follow these steps to set up and run the SmartCheckout application locally:
 
 # ShopSmart Database Setup
 
-Below is SQL queries and table structures to set up the ShopSmart database. Below are the SQL commands to create the necessary tables and insert sample data. You can copy and paste these SQL commands into your database system to set up the database.
-
 Goto config.js and modify user and password according to your mysql.
+
+Below is SQL queries and table structures to set up the ShopSmart database. Below are the SQL commands to create the necessary tables and insert sample data. You can copy and paste these SQL commands into your database system to set up the database.
 
 ```
 -- Create Database
