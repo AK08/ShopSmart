@@ -28,6 +28,9 @@ Follow these steps to set up and run the SmartCheckout application locally:
 Below is SQL queries and table structures to set up the ShopSmart database. Below are the SQL commands to create the necessary tables and insert sample data. You can copy and paste these SQL commands into your database system to set up the database.
 
 ```
+-- Create Database
+create database shopsmart2
+use shopsmart2
 -- Table structure for table `admin`
 DROP TABLE IF EXISTS `admin`;
 CREATE TABLE `admin` (
