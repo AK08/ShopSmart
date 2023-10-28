@@ -16,11 +16,14 @@ export const SideBarData=[
         icon : <HomeIcon />,
         link : "/adminhome"
     },
+
+    // {
+    //     title : "Stores",
+    //     icon : <StoreIcon />,
+    //     link : "/admin_stores"
+    // },
+    
     {
-        title : "Stores",
-        icon : <StoreIcon />,
-        link : "/admin_stores"
-    },{
         title : "Categories",
         icon : <CategoryIcon />,
         link : "/admin_category"
