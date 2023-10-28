@@ -13,7 +13,7 @@ Follow these steps to set up and run the SmartCheckout application locally:
 3. Nodemon
 4. create a new console
 5. cd server
-6. node index.js
+6. node admin.js
 
 ### Client Setup
 
