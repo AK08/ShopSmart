@@ -1,6 +1,29 @@
 # ShopSmart
 
-ShopSmart is a web-based e-commerce platform that allows users to browse and purchase products online. This repository contains the codebase for both the server and client applications, as well as the database setup.
+The Smart Store project is a self-checkout system that utilizes mobile scanning
+technology to improve customers’ shopping experience. This system provides an
+efficient and convenient way for customers to purchase items in a store without waiting
+in long queues. The project utilizes a virtual cart system that enables customers to scan
+and add items to their cart using mobile devices. The system also utilizes a database
+management system to store and manage product information, customer data, and
+transaction history.
+
+The front end of the project is developed using the React JS library, which provides an
+efficient and scalable way to build user interfaces. The system’s back end is developed
+using Node JS, which provides a flexible and scalable server-side environment. The
+database used for this project is MySQL, which provides a reliable and robust way to
+store and manage large amounts of data.
+
+This project aims to enhance customers’ shopping experience by providing a fast,
+efficient, and convenient way to purchase items in a store. It also aims to reduce the
+workload of store employees by automating the checkout process, which can lead to
+cost savings for the store. The system can be used in any store that wants to provide a
+better shopping experience for its customers.
+
+The purpose of this project documentation is to provide a comprehensive overview of
+the Smart Store project. The report will cover the project description, existing systems,
+objectives, purpose, scope, and applicability. The report will also provide an overview
+of the technologies used and the major outcomes of the project.
 
 ## Getting Started
 
